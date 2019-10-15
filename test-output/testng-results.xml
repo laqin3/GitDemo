@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="115" started-at="2019-10-12T16:31:42 EDT" finished-at="2019-10-12T16:31:43 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="115" started-at="2019-10-12T16:31:42 EDT" finished-at="2019-10-12T16:31:43 EDT">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.RestAPITest@6895a785]" name="deleteTwitter" duration-ms="3" started-at="2019-10-12T16:31:43 EDT" finished-at="2019-10-12T16:31:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.RestAPITest@6895a785]" name="postJira" duration-ms="2" started-at="2019-10-12T16:31:43 EDT" finished-at="2019-10-12T16:31:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@48503868]" name="browserAutomation" duration-ms="19" started-at="2019-10-12T16:31:43 EDT" finished-at="2019-10-12T16:31:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@48503868]" name="elementsUi" duration-ms="3" started-at="2019-10-12T16:31:43 EDT" finished-at="2019-10-12T16:31:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
